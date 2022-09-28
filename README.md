@@ -1,1 +1,1 @@
-# CaSScade_Email_Template
+# Email Template
